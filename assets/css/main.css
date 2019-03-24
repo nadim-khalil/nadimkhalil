@@ -1695,7 +1695,7 @@
 		}
 
 	body, input, select, textarea {
-		color: #a2a2a2;
+		color: #555555;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -1719,7 +1719,7 @@
 		}
 
 	strong, b {
-		color: #787878;
+		color: #3e3b3b;
 		font-weight: 400;
 	}
 
@@ -1732,7 +1732,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #343333;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -1845,14 +1845,14 @@
 	}
 
 	header p {
-		color: #b2b2b2;
+		color: #867d7d;
         font-style: italic;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
 
 	header a {
-		color: #b2b2b2;
+		color: #867d7d;
         font-style: none;
 	}
 
